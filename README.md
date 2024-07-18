@@ -1,4 +1,3 @@
-Sure! Here is a draft for your `README.md` file:
 
 ---
 
@@ -54,7 +53,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ## **License 📄**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/muhammadadilnaeem/Simple-Question-Answer-ChatBot/blob/main/LICENSE)) file for details.
 
 ## **Acknowledgements 🙌**
 
@@ -62,5 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by various chatbot tutorials and examples.
 
 ---
-
-Feel free to adjust any section or add more details as needed!
