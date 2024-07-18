@@ -53,7 +53,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ## **License 📄**
 
-This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/muhammadadilnaeem/Simple-Question-Answer-ChatBot/blob/main/LICENSE)) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/muhammadadilnaeem/Simple-Question-Answer-ChatBot/blob/main/LICENSE) file for details.
 
 ## **Acknowledgements 🙌**
 
